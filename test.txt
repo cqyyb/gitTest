@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 นคนค
+=======
+this is a test
+
+222
+
+44
+
+999
+>>>>>>> parent of a017d1c... oow
