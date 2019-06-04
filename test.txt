@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 นคนค
 =======
+=======
+>>>>>>> parent of 544e159... now
 this is a test
 
 222
@@ -8,4 +11,12 @@ this is a test
 44
 
 999
+<<<<<<< HEAD
 >>>>>>> parent of a017d1c... oow
+=======
+=======
+this is a test
+
+222
+>>>>>>> 779a83a3f63e7d7793fc1ead4ffd21f76f528e9a
+>>>>>>> parent of 544e159... now
